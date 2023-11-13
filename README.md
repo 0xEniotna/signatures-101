@@ -59,5 +59,5 @@ Your objective is to gather as many TD-ERC20-101 points as possible. Please note
 
 ## TD addresses
 
-- ERC20TD [`0xA5175D7881a0B0fBd531986a9C8feA4231cbd874`](https://sepolia.etherscan.io/address/0xA5175D7881a0B0fBd531986a9C8feA4231cbd874)
-- Evaluator [`0x7599A6d243a1d78c495817cFB9D9583E6f6740DD`](https://sepolia.etherscan.io/address/0x7599A6d243a1d78c495817cFB9D9583E6f6740DD)
+- ERC20TD [`0xA5175D7881a0B0fBd531986a9C8feA4231cbd874`](https://sepolia.etherscan.io/address/0x9d3b872573c4c39DE0c1d546D5EB6F53087e0086)
+- Evaluator [`0x7599A6d243a1d78c495817cFB9D9583E6f6740DD`](https://sepolia.etherscan.io/address/0x59566f304ac1f7ba78a1fb3d8b9195a09d60e891)
